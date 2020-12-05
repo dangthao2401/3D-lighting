@@ -1,2 +1,2 @@
 # 3D-lighting
-Phong Lighting
+Phong Lighting with Three.js
